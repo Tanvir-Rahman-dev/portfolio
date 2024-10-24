@@ -1,0 +1,12 @@
+/* Hero.css */
+.hero-container {
+    background-color: lightblue;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .hero-title {
+    font-size: 2rem;
+    color: navy;
+  }
+  
